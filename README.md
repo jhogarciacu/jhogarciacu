@@ -1,6 +1,8 @@
-<p align="center"><h1>🌟 Hello World, I'm Edwin Garcia! 🌟</h1></p>
-<p align="center"><h2>🌐 Cyber-Physical Systems & Data Intelligence Engineer</h2></p>
-<p align="center"><code>⚡ Bridging the gap between physical hardware architectures and predictive data science.</code></p>
+<div align="center">
+  <h2>🌟 Hello World, I'm Edwin Garcia! 🌟</h2>
+  <h3>🌐 Cyber-Physical Systems & Data Intelligence Engineer</h3>
+  <code>⚡ Bridging the gap between physical hardware architectures and predictive data science.</code>
+</div>
 
 ---
 
