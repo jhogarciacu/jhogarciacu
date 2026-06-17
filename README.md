@@ -8,7 +8,7 @@
 
 <div align="center"><h2>🚀 OVERVIEW</h2></div>
 
-<div align="center"><b>🔭 Conectando Mundos:</b> Diseñando ecosistemas IoT End-to-End integrados con Machine Learning.<br><b>🧠 Enfoque Principal:</b> Transformar telemetría cruda en el borde (Edge) en modelos predictivos y algoritmos de visión en tiempo real.<br><b>🌱 Sprint Actual:</b> Profundizando mi experiencia en Edge AI y pronósticos de series temporales en tiempo real.<br><b>⚡ Dato Curioso:</b> ¡Convierto variables físicas en información estructurada para bases de datos!</div>
+<div align="center"><b>🔭 Bridging Worlds:</b> Architecting End-to-End IoT ecosystems integrated with Machine Learning.<br><b>🧠 Core Focus:</b> Transforming raw edge telemetry into predictive models and real-time vision algorithms.<br><b>🌱 Current Sprint:</b> Deepening expertise in real-time time-series forecasting & Edge AI.<br><b>⚡ Fun Fact:</b> I turn physical variables into structured database insights!</div>
 
 ---
 
