@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>🌟 Hello World, I'm Edwin Garcia! 🌟</h2>
+  <h2>⚡ Hello World, I'm Edwin Garcia! ⚡</h2>
   <h3>🌐 Cyber-Physical Systems & Data Intelligence Engineer</h3>
   <code>⚡ Bridging the gap between physical hardware architectures and predictive data science.</code>
 </div>
